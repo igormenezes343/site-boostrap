@@ -1,0 +1,29 @@
+/*gerais*/
+.row{
+    margin: 0;
+}
+.container{
+padding: 8px;
+}
+section{
+    padding-top: 50px;
+}
+
+/*Barra de navegação*/
+
+header, .navbar{
+    background-color: rgb(255, 187, 0);
+    margin: 0 8px;
+}
+.nav-link{
+    font-size: 18px;
+    font-weight: bold;
+}
+#titulo{
+    color: black;
+    text-align: center;
+    padding: 8px;
+}
+.nav-link{
+    text-align: center;
+}
