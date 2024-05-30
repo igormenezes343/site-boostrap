@@ -1,4 +1,4 @@
-/*gerais*/
+
 .row{
     margin: 0;
 }
@@ -8,8 +8,6 @@ padding: 8px;
 section{
     padding-top: 50px;
 }
-
-/*Barra de navegação*/
 
 header, .navbar{
     background-color: rgb(255, 187, 0);
